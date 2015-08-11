@@ -1,0 +1,12 @@
+﻿<xapCache source="C:\Projetos\github\RuUfrgs\RuUfrgs\Bin\Debug\RuUfrgs_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="11/08/2015 11:03:14">
+  <file source="C:\Projetos\github\RuUfrgs\RuUfrgs\obj\Debug\RuUfrgs.dll" archivePath="RuUfrgs.dll" lastWriteTime="11/08/2015 11:03:13" />
+  <file source="C:\Projetos\github\RuUfrgs\RuUfrgs\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="11/08/2015 11:01:30" />
+  <file source="C:\Projetos\github\RuUfrgs\RuUfrgs\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="11/08/2015 11:01:30" />
+  <file source="C:\Projetos\github\RuUfrgs\RuUfrgs\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="11/08/2015 11:01:30" />
+  <file source="C:\Projetos\github\RuUfrgs\RuUfrgs\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="11/08/2015 11:01:30" />
+  <file source="C:\Projetos\github\RuUfrgs\RuUfrgs\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="11/08/2015 11:01:30" />
+  <file source="C:\Projetos\github\RuUfrgs\RuUfrgs\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="11/08/2015 11:01:45" />
+  <file source="C:\Projetos\github\RuUfrgs\RuUfrgs\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="11/08/2015 11:01:30" />
+  <file source="C:\Projetos\github\RuUfrgs\RuUfrgs\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="11/08/2015 11:01:30" />
+  <file source="C:\Projetos\github\RuUfrgs\RuUfrgs\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="11/08/2015 11:01:46" />
+</xapCache>
